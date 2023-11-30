@@ -1,2 +1,1 @@
-# vishnu
-personal site
+# vishnu Personal site
